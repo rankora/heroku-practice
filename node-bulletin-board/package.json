@@ -1,0 +1,23 @@
+{
+  "name": "bulletin-board",
+  "version": "1.0.0",
+  "description": "bulletin board heroku example",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docker-training/node-bulletin-board.git"
+  },
+  "keywords": [
+    "\"example\"",
+    "\"heroku\""
+  ],
+  "author": "Runor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/docker-training/node-bulletin-board/issues"
+  },
+  "homepage": "https://github.com/docker-training/node-bulletin-board#readme"
+}
