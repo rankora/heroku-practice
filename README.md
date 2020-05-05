@@ -1,20 +1,19 @@
-## Vue Events Bulletin Board
+![Screenshot](https://res.cloudinary.com/turnup/image/upload/v1526512881/homepage-cards.png)
 
-This is the code for the Vue.js [tutorial on Scotch.io](https://scotch.io/tutorials/build-a-single-page-time-tracking-app-with-vue-js-introduction). In the tutorial we build a events bulletin board application and cover the basics of [Vue](http://vuejs.org/).
+# First Node Website Tutorial Starter Files
 
-## Installation
+These are the starter files to accompany the tutorial for building a simple Node.js website with Express and Pug.
 
-1. Run `npm install`.
-2. Run `node server.js`.
-3. Visit [http://localhost:8080](http://localhost:8080).
+You can [access the tutorial here](https://freshman.tech/learn-node).
 
-## RESTful API (contributed by Jason Lam)
+[Live demo](https://freshman-node.herokuapp.com/)
 
-1. **Use Node.js & Express for backend server and router.**
-2. **RESTful requests towards the server to simulate CRUD on *events* model, instead of local hardcoded ones.**
-3. Translated into Traditional Chinese.
+## Instructions
+1. Clone repo
+2. Run `npm install`
 
-## RESTful API written in Go 
+## Getting Help
 
-If you would like to use a backend written in Go, [thewhitetulip](http://github.com/thewhitetulip) has written on. See [the source code](https://github.com/thewhitetulip/go-vue-events).
- 
+Need some help? Leave a comment on the tutorial — this repo is meant as a place to grab the starter files and isn't a support channel.
+
+
